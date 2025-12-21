@@ -1,4 +1,4 @@
-# Flight Delay Analysis Dashboard (2003–2022)
+# Flight Delay Analysis (2003–2022)
 
 ![Dashboard 2003–2012](dashboard%20(2003-2012).png)
 
@@ -49,7 +49,3 @@ The project is designed as a **portfolio showcase**, highlighting data modeling,
 - Weather-related delays show strong seasonal patterns.
 - Airline performance varies significantly when measured using percentage-based delay metrics.
 - Interactive filtering reveals insights not visible in static summaries.
-
----
-
-## Repository Structure
