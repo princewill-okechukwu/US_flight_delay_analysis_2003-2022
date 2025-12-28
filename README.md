@@ -1,6 +1,6 @@
 # US Flight Delay Analysis (2003–2022)  
 
-![Dashboard 2003–2012](dashboard%20(2003-2012).png)
+![Dashboard 2003–2012](dashboard1%20(2003-2012).png)
 
 ## Overview
 This project presents an **interactive analysis of U.S. flight delay data covering 20 years (2003–2022)**.  
@@ -33,7 +33,7 @@ The project is designed as a **portfolio showcase**, highlighting data modeling,
 
 ---
 
-![Dashboard 2013–2022](dashboard%20(2013-2022).png)
+![Dashboard 2013–2022](dashboard2%20(2013-2022).png)
 
 ## Dashboard Features
 - Airline slicer for dynamic filtering
