@@ -1,5 +1,6 @@
-# US Flight Delay Analysis (2003–2022)  
-![Dashboard 2003-2012](dashboard-2003-2012.png)
+# US Flight Delay Analysis (2003–2022)
+
+![Dashboard 2003-2012](dashboard-2003-2012.jpg)
 
 ## Overview
 This project analyzes **U.S. flight delay data (2003–2022)** using interactive Excel dashboards.  
@@ -17,8 +18,7 @@ Built as a **portfolio project**, it demonstrates **data modeling, DAX calculati
 
 ---
 
-## dashboard-(2013-2022)  
-![Dashboard 2013-2022](dashboard-2013-2022.png)
+![Dashboard 2013-2022](dashboard-2013-2022.jpg)
 
 ---
 
